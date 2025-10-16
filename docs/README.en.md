@@ -189,10 +189,10 @@ For debugging, logs or `pdb` are your best friends.
 
 ## Related Links
 
-- dev.to article: [Building an Auto Uploader to Google Drive: Lessons Learned](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
-- GitHub: [github.com/yourusername/auto_uploader](https://github.com/PyRz-Tech/auto_uploader)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/mohammadreza-mahdian-38304038a)
-- Twitter (X): [twitter.com/yourusername](https://twitter.com/PyRzTech)
+- Dev.to article: [Building an Auto Uploader to Google Drive: Lessons Learned](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
+- GitHub: [github.com/PyRz-Tech/auto_uploader](https://github.com/PyRz-Tech/auto_uploader)
+- LinkedIn: [linkedin.com/in/mohammadreza-mahdian-38304038a](https://www.linkedin.com/in/mohammadreza-mahdian-38304038a)
+- Twitter (X): [@PyRzTech](https://twitter.com/PyRzTech)
 
 ## License
 
