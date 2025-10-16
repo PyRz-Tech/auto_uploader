@@ -187,12 +187,12 @@ Wanna chip in? Here’s how:
 
 For debugging, logs or `pdb` are your best friends.
 
-## Related Links (placeholders—fill in later)
+## Related Links
 
-- dev.to article: [Building an Auto Uploader to Google Drive: Lessons Learned](https://dev.to/yourusername/building-an-auto-uploader-to-google-drive-lessons-learned-1234)
-- GitHub: [github.com/yourusername/auto_uploader](https://github.com/yourusername/auto_uploader)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- Twitter (X): [twitter.com/yourusername](https://twitter.com/yourusername)
+- dev.to article: [Building an Auto Uploader to Google Drive: Lessons Learned](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
+- GitHub: [github.com/yourusername/auto_uploader](https://github.com/PyRz-Tech/auto_uploader)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/mohammadreza-mahdian-38304038a)
+- Twitter (X): [twitter.com/yourusername](https://twitter.com/PyRzTech)
 
 ## License
 

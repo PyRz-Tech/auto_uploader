@@ -187,14 +187,10 @@ coverage html
 
 برای دیباگ، لاگ‌های برنامه یا `pdb` حسابی به کار میاد.
 
-## لینک‌های مرتبط (تستی - بعداً پر کن)
-
-
+## لینک‌های مرتبط
 - مقاله در dev.to: [ساخت آپلودر خودکار برای Google Drive: درس‌های آموخته‌شده]((https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
 - گیت‌هاب: [github.com/yourusername/auto_uploader](https://github.com/PyRz-Tech/auto_uploader)
 - لینکدین: [linkedin.com/in/yourusername](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammadreza-mahdian-38304038a)
-- توییتر (X): [twitter.com/yourusername](https://twitter.com/PyRzTech)
-
 ## مجوز
 
 این پروژه با مجوز MIT منتشر شده. اگه فایل [LICENSE](LICENSE) نبود، فرض کن برای استفاده شخصی رایگانه.
